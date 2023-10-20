@@ -31,7 +31,7 @@ The program should ask user which name is required then search the file for that
 Add a new employee to the directory:
 The program should ask the user to enter all the details of the new employee and then save those details to the end of the file. Make sure you choose the correct file mode. 
 
-Try to:
+Extension:
 Use a function to input and validate the names and job titles. 
 Use a function to input and validate the telephone numbers. 
 Add error trapping to stop the program crashing if the user tries to read the file if it doesn't exist. 
