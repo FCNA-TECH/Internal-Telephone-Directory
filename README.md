@@ -19,19 +19,19 @@ The menu should have options to:
 4. Add a new employee to the directory
 5. Exit program
   
-Creating the directory -
+Creating the directory:
 The program should allow the user to enter the details for as many as they would like. 
 
-Read and Display the directory -
+Read and Display the directory:
 The program should display the entire contents of the file. 
 
-Find a phone number -
+Find a phone number:
 The program should ask user which name is required then search the file for that name. If the name is found then corresponding telephone number and job title should be displayed. The program should display a suitable message if the name is not found. 
 
-Add a new employee to the directory -
+Add a new employee to the directory:
 The program should ask the user to enter all the details of the new employee and then save those details to the end of the file. Make sure you choose the correct file mode. 
 
-Try to -
+Try to:
 Use a function to input and validate the names and job titles. 
 Use a function to input and validate the telephone numbers. 
 Add error trapping to stop the program crashing if the user tries to read the file if it doesn't exist. 
