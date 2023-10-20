@@ -153,7 +153,7 @@ class Program
     Console.WriteLine("Employee Saved! ");
     Console.WriteLine("");
   
-  writer.Close();
+    writer.Close();
   }
   
   public static string DisplayMenu()
